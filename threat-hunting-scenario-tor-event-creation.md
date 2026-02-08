@@ -75,14 +75,14 @@ DeviceFileEvents
 ---
 
 ## Created By:
-- **Author Name**: Josh Madakor
-- **Author Contact**: https://www.linkedin.com/in/joshmadakor/
-- **Date**: August 31, 2024
+- **Author Name**: Jackson Usoro
+- **Author Contact**: https://www.linkedin.com/in/jacksonusoro/
+- **Date**: January 15, 2026
 
 ## Validated By:
-- **Reviewer Name**: 
-- **Reviewer Contact**: 
-- **Validation Date**: 
+- **Reviewer Name**: Josh Madakor
+- **Reviewer Contact**: https://www.linkedin.com/joshmadakor
+- **Validation Date**: January 15, 2026
 
 ---
 
@@ -94,4 +94,4 @@ DeviceFileEvents
 ## Revision History:
 | **Version** | **Changes**                   | **Date**         | **Modified By**   |
 |-------------|-------------------------------|------------------|-------------------|
-| 1.0         | Initial draft                  | `September  6, 2024`  | `Josh Madakor`   
+| 1.0         | Initial draft                  | `January  15, 2026`  | `Jackson Usoro`   
